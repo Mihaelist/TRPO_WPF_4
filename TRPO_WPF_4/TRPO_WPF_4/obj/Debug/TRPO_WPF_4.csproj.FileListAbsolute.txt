@@ -1,0 +1,17 @@
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.csproj.AssemblyReference.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\MainWindow.baml
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\MainWindow.g.cs
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\App.g.cs
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4_MarkupCompile.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.g.resources
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.Properties.Resources.resources
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.csproj.GenerateResource.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.csproj.CoreCompileInputs.cache
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\bin\Debug\TRPO_WPF_4.exe.config
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\bin\Debug\TRPO_WPF_4.exe
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\bin\Debug\TRPO_WPF_4.pdb
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4_MarkupCompile.lref
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.exe
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\TRPO_WPF_4.pdb
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\Window1.g.cs
+C:\Users\Aranc\source\repos\TRPO_WPF_4\TRPO_WPF_4\obj\Debug\Window1.baml
